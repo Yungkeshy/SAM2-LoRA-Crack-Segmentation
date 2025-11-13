@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+torch
+torchvision
+monai
+tqdm
+opencv-python
+scikit-learn
+kaggle
