@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.zip
+/data/
+/images/
+
+# Models
+*.pth
+
+# OS
+.DS_Store
